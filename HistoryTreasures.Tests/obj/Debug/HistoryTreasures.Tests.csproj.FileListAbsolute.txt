@@ -1,0 +1,11 @@
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\bin\Debug\HistoryTreasures.Tests.dll
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\bin\Debug\HistoryTreasures.Tests.pdb
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\bin\Debug\Assembly-CSharp.dll
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\bin\Debug\UnityEngine.dll
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\bin\Debug\UnityEngine.xml
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\obj\Debug\HistoryTreasures.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\obj\Debug\HistoryTreasures.Tests.dll
+C:\Users\Julie\Documents\UnityProject\HistoryTreasures\HistoryTreasures.Tests\obj\Debug\HistoryTreasures.Tests.pdb
