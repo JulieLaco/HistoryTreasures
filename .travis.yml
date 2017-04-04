@@ -1,0 +1,17 @@
+language: csharp
+solution: HistoryTreasures.sln
+
+before_install:
+  - git config --global github.user JulieLaco
+  - git config --global github.token 27a68d5f3aed4c2526b57ab37fbfe4aaff42111f
+  - git config --global user.name "JulieLaco"
+  - git config --global user.email lacognata@intechinfo.fr
+
+install:
+  - nuget restore HistoryTreasures.sln
+  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+
+script:
+  - xbuild /p:Configuration=Debug HistoryTreasures.sln
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./HistoryTreasures/HistoryTreasures.dll
+
